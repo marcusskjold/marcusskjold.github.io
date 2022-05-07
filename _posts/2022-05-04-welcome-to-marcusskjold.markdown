@@ -7,7 +7,7 @@ permalink: :title
 ---
 This is my very first post.
 
-I don't know exactly what will come of this blog. But I do not I want to have three main focuses:
+I don't know exactly what will come of this blog. But I do know I want to have three main focuses:
 
 - My reading (mostly anthropological literature)
 - My listening
