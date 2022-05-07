@@ -15,4 +15,11 @@ I don't know exactly what will come of this blog. But I do know I want to have t
 
 Until then!
 
+Todo:
+
+- [ ] Find a good theme for the blog
+- [ ] Decide on what kind of images I will use
+- [ ] Write something
+- [ ] Figure out how to embed my mixtapes
+
 ~~~~
