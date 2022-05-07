@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to marcusskjold.com"
 date:   2022-05-04 20:09:38 -0400
 categories: jekyll update
+permalink: :title
 ---
 This is my very first post.
 

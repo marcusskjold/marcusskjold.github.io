@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<img src="img/001-city-and-bush.jpeg" alt="View of Montreal from Mount Royal during sunrise">
