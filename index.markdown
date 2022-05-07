@@ -4,4 +4,3 @@
 
 layout: home
 ---
-Hey velkommen. Dette er en test. 
