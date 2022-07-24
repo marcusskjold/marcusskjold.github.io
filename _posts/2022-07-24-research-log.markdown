@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Research Log July 2022"
-date:   2022-07-24 00:00:00 +0100
+date:   2022-07-24 00:00:01 +0100
 categories: log research
 permalink: /researchlog/2022-07
 ---
