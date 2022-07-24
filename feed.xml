@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-07-25T01:31:07+02:00</updated><id>/feed.xml</id><title type="html">Marcus Skjold</title><subtitle>Blog and website for Marcus Skjold</subtitle><entry><title type="html">Research Log July 2022</title><link href="/researchlog/2022-07" rel="alternate" type="text/html" title="Research Log July 2022" /><published>2022-07-24T01:00:01+02:00</published><updated>2022-07-24T01:00:01+02:00</updated><id>/researchlog/research-log</id><content type="html" xml:base="/researchlog/2022-07"><![CDATA[<h1 id="research-log">Research Log</h1>
+
+<ul>
+  <li>
+    <p>I want to start out by doin an “opening balances”</p>
+  </li>
+  <li>
+    <p>Also write my ambitions and hopeful projects</p>
+  </li>
+</ul>]]></content><author><name></name></author><category term="log" /><category term="research" /><summary type="html"><![CDATA[Research Log]]></summary></entry><entry><title type="html">Welcome to marcusskjold.com</title><link href="/welcome-to-marcusskjold" rel="alternate" type="text/html" title="Welcome to marcusskjold.com" /><published>2022-05-05T02:09:38+02:00</published><updated>2022-05-05T02:09:38+02:00</updated><id>/welcome-to-marcusskjold</id><content type="html" xml:base="/welcome-to-marcusskjold"><![CDATA[<p>This is my very first post.</p>
+
+<p>I don’t know exactly what will come of this blog. But I do know I want to have three main focuses:</p>
+
+<ul>
+  <li>My reading (mostly anthropological literature)</li>
+  <li>My listening</li>
+  <li>My creations (which will include blog posts &amp; mixtapes)</li>
+</ul>
+
+<p>Until then!</p>
+
+<h2 id="todo">Todo:</h2>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Find a good <a href="http://jekyllthemes.org/">theme</a> for the blog</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Decide on what kind of images I will use</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><em>Write something</em></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" /><del>Figure out how to embed my mixtapes</del></li>
+</ul>
+
+<iframe src="https://embed.podcasts.apple.com/us/podcast/movie-star-galaxy/id1603692357?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; background: transparent;"></iframe>
+
+<p>~~~~</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[This is my very first post.]]></summary></entry></feed>
