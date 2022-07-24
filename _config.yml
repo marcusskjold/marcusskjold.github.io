@@ -31,6 +31,16 @@ github_username:  marcusskjold
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-scholar
+
+scholar:
+  style: chicago-author-date-16th-edition
+  source: ./assets
+  locale: en
+  bibliography: marcusskjold.com.bib
+  sort_by: author
+  
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
