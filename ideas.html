@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><head>
+<html lang="en">
+  <script src="/assets/js/p5/bghome/sketch.js"></script><head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -19,7 +20,9 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-07-24T01:00:00+02:00","datePublished":"2022-07-24T01:00:00+02:00","description":"Ideas and todos","headline":"Ideas and todos","mainEntityOfPage":{"@type":"WebPage","@id":"/ideas"},"url":"/ideas"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Marcus Skjold" /></head>
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Marcus Skjold" /><script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/addons/p5.sound.min.js"></script>
+</head>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">Marcus Skjold</a><nav class="site-nav">
@@ -71,34 +74,10 @@
   <li class="task-list-item">
     <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Experiment with narrative – especially by using Twine</p>
   </li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Experiment with using Mermaid.js</li>
-</ul>
-
-<pre><code class="language-mermaid"> classDiagram
-      Animal &lt;|-- Duck
-      Animal &lt;|-- Fish
-      Animal &lt;|-- Zebra
-      Animal : +int age
-      Animal : +String gender
-      Animal: +isMammal()
-      Animal: +mate()
-      class Duck{
-          +String beakColor
-          +swim()
-          +quack()
-      }
-      class Fish{
-          -int sizeInFeet
-          -canEat()
-      }
-      class Zebra{
-          +bool is_wild
-          +run()
-      }
-</code></pre>
-
-<ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Experiment with jekyll-scholar</li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Experiment with using Mermaid.js</p>
+  </li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Experiment with jekyll-scholar</li>
 </ul>
 
 <p>Test <a class="citation" href="#uibariu2016StateCrimesDemocracy">(Uibariu 2016, pp. 300-303; Karel 2016, p. 21)</a>.</p>
@@ -140,5 +119,8 @@
 
 </footer>
 </body>
+
+
+
 
 </html>

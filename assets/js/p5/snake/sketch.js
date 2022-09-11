@@ -4,6 +4,19 @@ var sizey = 30;
 var player;
 var target;
 
+// theCanvas.onkeydown = function (e) {
+//       if (e.key === 'ArrowUp' || e.key === 'ArrowDown') {
+//           e.view.event.preventDefault();
+//       }
+
+document.onkeydown = function(evt) {
+    evt = evt || window.event;
+    var keyCode = evt.keyCode;
+    if (keyCode >= 37 && keyCode <= 40) {
+        return false;
+    }
+};
+
 function setup() {
   createCanvas(scl*sizex, scl*sizey);
   player = new Snake();
